@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pStock - class to draw stock charts
 

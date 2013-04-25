@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pSurface - class to draw surface charts
 

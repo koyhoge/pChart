@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pBubble - class to draw bubble charts
 

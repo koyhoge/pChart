@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pCache - speed up the rendering by caching up the pictures
 

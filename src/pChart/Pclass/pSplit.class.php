@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pSplit - class to draw spline splitted charts
 

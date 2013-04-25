@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pSpring - class to draw spring graphs
 

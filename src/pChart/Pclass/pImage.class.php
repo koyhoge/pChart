@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pDraw - pChart core class
 

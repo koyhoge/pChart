@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pIndicator - class to draw indicators
 

@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pPie - class to draw pie charts
 

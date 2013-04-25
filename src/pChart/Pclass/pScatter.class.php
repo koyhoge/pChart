@@ -1,4 +1,5 @@
 <?php
+namespace pChart\pClass;
  /*
      pScatter - class to draw scatter charts
 
