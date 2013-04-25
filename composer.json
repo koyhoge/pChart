@@ -1,0 +1,22 @@
+{
+    "name": "fertandil87/pChart",
+    "type": "library",
+    "description": "pChart library",
+    "keywords": ["charts", "pie","pchart"],
+    "homepage": "https://github.com/fertandil87/pChart",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Fernando Saez",
+            "email": "fertandil87@gmail.com",
+            "homepage": ""
+        }
+
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        
+    }
+}
