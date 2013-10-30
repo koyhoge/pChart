@@ -70,7 +70,7 @@ class pData {
 
     /* Class creator */
 
-    function __constructpri() {
+    function __construct() {
         $this->Data = "";
         $this->Data["XAxisDisplay"] = AXIS_FORMAT_DEFAULT;
         $this->Data["XAxisFormat"] = NULL;
